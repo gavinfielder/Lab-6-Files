@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Tester
+comment0.text=\r\n\ This\ program\ reads\ student\ records\ from\ file,\ processes\ them,\ and\ prints\ some\ analysis\r\n\ \r\n\ @author\ Russell\ Gavin\ Fielder\r\n\ @version\ 5/7/2017\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
